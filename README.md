@@ -5,15 +5,9 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/NooXiii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="discordapp.com/users/336766205778198531" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/danil.lopatin.37/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=nooxiii&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="24" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@danil.lopatin.37&color=E4405F&logoColor=white&labelColor=&style=flat" height="24" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=nooxiii&color=7289DA&logoColor=white&labelColor=&style=flat" height="24" alt="discord logo"  />
 </div>
 
 ###
