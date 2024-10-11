@@ -19,10 +19,6 @@
 
 ###
 
-<h1 align="center">Welcome</h1>
-
-###
-
 <h2 align="left">📜 Bio</h2>
 
 ###
