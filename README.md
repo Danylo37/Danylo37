@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Danylo Lopatin from Ukraine, but currently live in Spain<br><br>- 🎓 Student of NAU "KhAI"<br>- 👨‍💻 Learning Python</p>
+<p align="left">I'm Danylo Lopatin from Ukraine, but currently live in Spain<br><br>- 🎓 Student of NAU "KhAI"<br>- 👨‍💻 Learning Rust, Java, HTML, CSS and SASS</p>
 
 ###
 
