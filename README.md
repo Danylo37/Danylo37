@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-👋 Hi! I'm Danylo Lopatin from Ukraine, currently based in Spain<br><br>🎓 Student of NAU "KhAI"<br>👨‍💻 Learning Python for ML<br>🌐 Languages: Russian & Ukrainian (native), English (B1+), Spanish (B1)
+👋 Hi! I'm Danylo Lopatin from Ukraine, currently based in Spain<br><br>🎓 Student of NAU "KhAI"<br>👨‍💻 Learning Python for ML
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
